@@ -1,1 +1,2 @@
-THIS_IS_MOVIE RECOMMENDATION SYSTEM_I WILL CAHNGE_IT UNTIL THE PROJECT IS DONE
+Movie-Recommend-nd-
+This is a Movie recommendation project i will always update until the project is completed
